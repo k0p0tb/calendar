@@ -1,0 +1,17 @@
+# Environment variables (секреты и конфигурация)
+.env
+
+# Go build & binaries
+backend/bin/
+*.exe
+*.test
+
+# Node / Frontend
+frontend/node_modules/
+frontend/dist/
+
+# OS and IDE files
+.DS_Store
+.idea/
+.vscode/
+*.swp
